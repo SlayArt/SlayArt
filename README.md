@@ -6,3 +6,7 @@
 - 😄 Pronouns: SlayArt
 - ⚡ Fun fact: i ever wanna be better and i never stop learning
 
+-----
+
+Last uptdate : 17/10/2024
+
