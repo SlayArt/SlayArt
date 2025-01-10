@@ -4,10 +4,9 @@
 - 🧏‍♂️ I code in python, C (my favorite one), JS, some base in SQL !
 - 🌱 I’m currently learning C and AI developpement
 - 📫 How to reach me: arthur200892@gmail.com
-- 😄 Pronouns: SlayArt
-- ⚡ Fun fact: i ever wanna be better and i never stop learning
+- ⚡ Fun fact: i always wanna be better and i never stop learning
 
 -----
 
-Last uptdate : 07/01/2025
+Last uptdate : 10/01/2025
 
